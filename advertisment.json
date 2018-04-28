@@ -1,0 +1,11 @@
+{
+	"status": true,
+	"message": {
+		"text": "<p><strong>Hello</strong></p><p>My name is <strong>Slava Yurthev</strong> and i am \"magento\" developer.</p><p>You see this message because you use some extension developed by me, <strong>thanks for your choice</strong>.</p><p>I want tell you about my hosting provider, this is really the best provider with lowest prices and highest quality.</p><p>They are using \"SSD\" storage for speed up websites and this is work <strong>more than 60 times faster</strong> than \"HDD\".</p><p>Do you want to <strong><a href=\"%1\" target=\"_blank\">check this for free</a></strong> or just <a href=\"%2\">close</a> this message?</p><p>* You will get a <strong>free week</strong> for the tests.</p><p>* You will get a <strong>free month</strong> if you will transfer your project to them.</p><p>And sorry if you already have known about this provider.</p><p><strong>Have a nice day ;)</strong></p>",
+		"url": [
+			"advertisment/subscribe",
+			"advertisment/close"
+		]
+	},
+	"action": "https://accounts.fozzy.com/aff.php?aff=1132"
+}
